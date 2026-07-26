@@ -1,0 +1,7 @@
+{
+  "gateway": {
+    "version": "2.9.0",
+    "url": "https://github.com/smarty-srb/smarty-releases/releases/download/gw-v2.9.0/smarty_gateway.bin",
+    "notes": "OTA update preko GitHub izdanja"
+  }
+}
