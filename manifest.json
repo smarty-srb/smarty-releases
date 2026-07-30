@@ -6,7 +6,7 @@
   },
   "panel_gen2": {
     "version": "1.0.2",
-    "url": "https://github.com/smarty-srb/smarty-releases/releases/download/panel-v1.0.1/smarty_panel_gen2.bin",
+    "url": "https://github.com/smarty-srb/smarty-releases/releases/download/panel-v1.0.2/smarty_panel_gen2.bin",
     "notes": "Prvi OTA test za Panel Gen2"
   }
 }
