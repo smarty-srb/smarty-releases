@@ -3,5 +3,10 @@
     "version": "2.9.1",
     "url": "https://github.com/smarty-srb/smarty-releases/releases/download/gw-v2.9.1/smarty_gateway.bin",
     "notes": "OTA update preko GitHub izdanja"
+  },
+  "panel_gen2": {
+    "version": "1.0.1",
+    "url": "https://github.com/smarty-srb/smarty-releases/releases/download/panel-v1.0.1/smarty_panel_gen2.bin",
+    "notes": "Prvi OTA test za Panel Gen2"
   }
 }
