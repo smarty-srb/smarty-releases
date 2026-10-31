@@ -8,5 +8,12 @@
     "version": "1.0.2",
     "url": "https://github.com/smarty-srb/smarty-releases/releases/download/panel-v1.0.2/smarty_panel_gen2.bin",
     "notes": "Prvi OTA test za Panel Gen2"
+  },
+  "zigbee_h2": {
+    "version": "1.25",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/zigbee_h2/smarty_zb_h2_1.25.bin",
+    "md5": "9d8069565e9249bdb87bea74925e264a",
+    "size": 787056,
+    "notes": "H2 1.25: automatski oporavak nedostupnih Zigbee uredjaja (trazi novu kratku adresu)"
   }
 }
