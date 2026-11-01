@@ -22,5 +22,12 @@
     "md5": "39aa4b9b90483a29ad2a0351f45d8bbe",
     "size": 1690416,
     "notes": "Gateway 2.19.0: OTA sa proverom md5 i velicine, povratak na stari firmver ako novi ne proradi"
+  },
+  "node_s": {
+    "version": "2.2.0",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/node_s/smarty_node_s_2.2.0.bin",
+    "md5": "8cf27033a25a85329505774809208131",
+    "size": 1989824,
+    "notes": "Node S 2.2.0: OTA sa proverom md5 i velicine, povratak na stari firmver ako novi ne proradi"
   }
 }
