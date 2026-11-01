@@ -1,10 +1,10 @@
 {
   "gateway": {
-    "version": "2.19.0",
-    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway/smarty_gateway_2.19.0.bin",
-    "md5": "13e299db039e0e80e0a45e4c91ec5430",
-    "size": 1650720,
-    "notes": "Gateway 2.19.0 (bez Zigbee): OTA sa proverom md5 i velicine, povratak na stari firmver ako novi ne proradi"
+    "version": "2.19.1",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway/smarty_gateway_2.19.1.bin",
+    "md5": "d995176a77b5e2f31c6f320d984a7b86",
+    "size": 1650832,
+    "notes": "Gateway 2.19.1 (bez Zigbee): iskljuceno stedenje Wi-Fi-ja (manje kasnjenje i gubitaka)"
   },
   "panel_gen2": {
     "version": "1.1.4",
@@ -21,11 +21,11 @@
     "notes": "H2 1.25: automatski oporavak nedostupnih Zigbee uredjaja (trazi novu kratku adresu)"
   },
   "gateway_gen3": {
-    "version": "2.19.0",
-    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway_gen3/smarty_gateway_gen3_2.19.0.bin",
-    "md5": "39aa4b9b90483a29ad2a0351f45d8bbe",
-    "size": 1690416,
-    "notes": "Gateway 2.19.0: OTA sa proverom md5 i velicine, povratak na stari firmver ako novi ne proradi"
+    "version": "2.19.1",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway_gen3/smarty_gateway_gen3_2.19.1.bin",
+    "md5": "5ee269957ea963e2b66743bdd50bd779",
+    "size": 1690528,
+    "notes": "Gateway 2.19.1: iskljuceno stedenje Wi-Fi-ja (manje kasnjenje i gubitaka)"
   },
   "node_s": {
     "version": "2.2.0",
