@@ -15,5 +15,12 @@
     "md5": "9d8069565e9249bdb87bea74925e264a",
     "size": 787056,
     "notes": "H2 1.25: automatski oporavak nedostupnih Zigbee uredjaja (trazi novu kratku adresu)"
+  },
+  "gateway_gen3": {
+    "version": "2.19.0",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway_gen3/smarty_gateway_gen3_2.19.0.bin",
+    "md5": "39aa4b9b90483a29ad2a0351f45d8bbe",
+    "size": 1690416,
+    "notes": "Gateway 2.19.0: OTA sa proverom md5 i velicine, povratak na stari firmver ako novi ne proradi"
   }
 }
