@@ -1,13 +1,17 @@
 {
   "gateway": {
-    "version": "2.9.1",
-    "url": "https://github.com/smarty-srb/smarty-releases/releases/download/gw-v2.9.1/smarty_gateway.bin",
-    "notes": "OTA update preko GitHub izdanja"
+    "version": "2.19.0",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway/smarty_gateway_2.19.0.bin",
+    "md5": "13e299db039e0e80e0a45e4c91ec5430",
+    "size": 1650720,
+    "notes": "Gateway 2.19.0 (bez Zigbee): OTA sa proverom md5 i velicine, povratak na stari firmver ako novi ne proradi"
   },
   "panel_gen2": {
-    "version": "1.0.2",
-    "url": "https://github.com/smarty-srb/smarty-releases/releases/download/panel-v1.0.2/smarty_panel_gen2.bin",
-    "notes": "Prvi OTA test za Panel Gen2"
+    "version": "1.1.4",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/panel_gen2/smarty_panel_gen2_1.1.4.bin",
+    "md5": "61b313177ce3ccdd64f1cbe2ebe8d8ba",
+    "size": 2124000,
+    "notes": "Panel 1.1.4: glasovne komande (tap-to-talk), rollback i provera sertifikata"
   },
   "zigbee_h2": {
     "version": "1.25",
