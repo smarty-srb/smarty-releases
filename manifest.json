@@ -1,17 +1,17 @@
 {
   "gateway": {
-    "version": "2.19.1",
-    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway/smarty_gateway_2.19.1.bin",
-    "md5": "d995176a77b5e2f31c6f320d984a7b86",
-    "size": 1650832,
-    "notes": "Gateway 2.19.1 (bez Zigbee): iskljuceno stedenje Wi-Fi-ja (manje kasnjenje i gubitaka)"
+    "version": "2.19.2",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway/smarty_gateway_2.19.2.bin",
+    "md5": "dac37761a5e597943cb71915254d4114",
+    "size": 1651360,
+    "notes": "Gateway 2.19.2 (bez Zigbee): RS485 (releji, panel) radi i bez Wi-Fi mreze; nema restarta zbog gubitka Wi-Fi-ja; kratki timeout provere update-a"
   },
   "panel_gen2": {
-    "version": "1.1.4",
-    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/panel_gen2/smarty_panel_gen2_1.1.4.bin",
-    "md5": "61b313177ce3ccdd64f1cbe2ebe8d8ba",
-    "size": 2124000,
-    "notes": "Panel 1.1.4: glasovne komande (tap-to-talk), rollback i provera sertifikata"
+    "version": "1.1.5",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/panel_gen2/smarty_panel_gen2_1.1.5.bin",
+    "md5": "68b52b4bb7fcc3b1080bce5ac2c9c97d",
+    "size": 2124544,
+    "notes": "Panel 1.1.5: ako komanda releja nema potvrdu preko Wi-Fi-ja za 1,5 s, salje se i preko RS485"
   },
   "zigbee_h2": {
     "version": "1.25",
@@ -21,11 +21,11 @@
     "notes": "H2 1.25: automatski oporavak nedostupnih Zigbee uredjaja (trazi novu kratku adresu)"
   },
   "gateway_gen3": {
-    "version": "2.19.1",
-    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway_gen3/smarty_gateway_gen3_2.19.1.bin",
-    "md5": "5ee269957ea963e2b66743bdd50bd779",
-    "size": 1690528,
-    "notes": "Gateway 2.19.1: iskljuceno stedenje Wi-Fi-ja (manje kasnjenje i gubitaka)"
+    "version": "2.19.2",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway_gen3/smarty_gateway_gen3_2.19.2.bin",
+    "md5": "f3be3b94366189ff21b66978ef88fe17",
+    "size": 1690800,
+    "notes": "Gateway 2.19.2: RS485 (releji, panel) radi i bez Wi-Fi mreze; nema restarta zbog gubitka Wi-Fi-ja; kratki timeout provere update-a"
   },
   "node_s": {
     "version": "2.2.0",
