@@ -7,11 +7,11 @@
     "notes": "Gateway 2.19.2 (bez Zigbee): RS485 (releji, panel) radi i bez Wi-Fi mreze; nema restarta zbog gubitka Wi-Fi-ja; kratki timeout provere update-a"
   },
   "panel_gen2": {
-    "version": "1.1.6",
-    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/panel_gen2/smarty_panel_gen2_1.1.6.bin",
-    "md5": "c1eeb525e8e275cfc177f90e900d5726",
-    "size": 2127584,
-    "notes": "Panel 1.1.6: virtuelni termostat Gateway-a se vidi medju Zigbee uredjajima (izmerena i zadata temperatura, -/+ i AUTO ON/OFF)"
+    "version": "1.1.7",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/panel_gen2/smarty_panel_gen2_1.1.7.bin",
+    "md5": "e7ccd15379eb4e8712df44e1b36fc093",
+    "size": 2128528,
+    "notes": "Panel 1.1.7: termostat sa krugom kao u aplikaciji (-, napajanje, +); screensaver zatvara otvoren prosireni prikaz"
   },
   "zigbee_h2": {
     "version": "1.25",
