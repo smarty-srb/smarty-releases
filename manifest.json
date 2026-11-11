@@ -25,7 +25,7 @@
     "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway_gen3/smarty_gateway_gen3_2.19.3.bin",
     "md5": "dfd14681bdcfa4277300e2a653cebb99",
     "size": 1691264,
-    "notes": "Gateway 2.19.3 (Zigbee): spisak Zigbee uredjaja se vise ne prazni pri osvezavanju (uredjaji ne nestaju iz aplikacije/panela); pridruzeni endpoint klima senzora nije lazno nedostupan"
+    "notes": "Gateway 2.19.3: stabilan spisak Zigbee uredjaja (uredjaji ne nestaju iz aplikacije i panela)"
   },
   "node_s": {
     "version": "2.2.0",
