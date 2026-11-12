@@ -1,10 +1,10 @@
 {
   "gateway": {
-    "version": "2.19.2",
-    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway/smarty_gateway_2.19.2.bin",
-    "md5": "dac37761a5e597943cb71915254d4114",
-    "size": 1651360,
-    "notes": "Gateway 2.19.2 (bez Zigbee): RS485 (releji, panel) radi i bez Wi-Fi mreze; nema restarta zbog gubitka Wi-Fi-ja; kratki timeout provere update-a"
+    "version": "2.19.4",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway/smarty_gateway_2.19.4.bin",
+    "md5": "cbd30be9491fa483585bdafe6f6e782c",
+    "size": 1650640,
+    "notes": "Gateway 2.19.4: stabilan spisak uredjaja, preuzimanje H2 firmvera preko HTTPS-a, nema skracenih poruka o novoj verziji"
   },
   "panel_gen2": {
     "version": "1.1.8",
@@ -21,11 +21,11 @@
     "notes": "H2 1.26: provera zivosti ZDO upitom i za roletnu/ZCL uredjaje; dijagnostika dostupnosti (zb_log)"
   },
   "gateway_gen3": {
-    "version": "2.19.3",
-    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway_gen3/smarty_gateway_gen3_2.19.3.bin",
-    "md5": "dfd14681bdcfa4277300e2a653cebb99",
-    "size": 1691264,
-    "notes": "Gateway 2.19.3: stabilan spisak Zigbee uredjaja (uredjaji ne nestaju iz aplikacije i panela)"
+    "version": "2.19.4",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway_gen3/smarty_gateway_gen3_2.19.4.bin",
+    "md5": "aaa3f51fb35d21f75e2870baa1cfc8c7",
+    "size": 1690400,
+    "notes": "Gateway 2.19.4: stabilan spisak uredjaja, preuzimanje H2 firmvera preko HTTPS-a, nema skracenih poruka o novoj verziji"
   },
   "node_s": {
     "version": "2.2.0",
