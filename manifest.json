@@ -7,11 +7,11 @@
     "notes": "Gateway 2.19.4: stabilan spisak uredjaja, preuzimanje H2 firmvera preko HTTPS-a, nema skracenih poruka o novoj verziji"
   },
   "panel_gen2": {
-    "version": "1.1.8",
-    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/panel_gen2/smarty_panel_gen2_1.1.8.bin",
-    "md5": "533e3c8c2b017ee29d0ac1afe83d3688",
-    "size": 2125936,
-    "notes": "Panel 1.1.8: ispravka zaledjivanja na screensaveru (LVGL je ostajao bez memorije; sada koristi ESP heap)"
+    "version": "1.1.9",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/panel_gen2/smarty_panel_gen2_1.1.9.bin",
+    "md5": "5539eaa58deb4b742efdba442eb36317",
+    "size": 2128160,
+    "notes": "Panel 1.1.9: belezi razlog restarta (struja, watchdog, pad) i trajanje rada; prikaz u podesavanjima"
   },
   "zigbee_h2": {
     "version": "1.27",
