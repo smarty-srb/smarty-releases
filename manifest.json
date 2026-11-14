@@ -14,18 +14,18 @@
     "notes": "Panel 1.1.8: ispravka zaledjivanja na screensaveru (LVGL je ostajao bez memorije; sada koristi ESP heap)"
   },
   "zigbee_h2": {
-    "version": "1.26",
-    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/zigbee_h2/smarty_zb_h2_1.26.bin",
-    "md5": "80e840882a7f4e2909cb15b0ed34954b",
-    "size": 787744,
-    "notes": "H2 1.26: provera zivosti ZDO upitom i za roletnu/ZCL uredjaje; dijagnostika dostupnosti (zb_log)"
+    "version": "1.27",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/zigbee_h2/smarty_zb_h2_1.27.bin",
+    "md5": "c485f725bb9b6b2710108113e38e0d7c",
+    "size": 788288,
+    "notes": "H2 1.27: oporavak uredjaja koji ne odgovaraju (ponovno pridruzivanje) i dogadjaji dostupnosti"
   },
   "gateway_gen3": {
-    "version": "2.19.4",
-    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway_gen3/smarty_gateway_gen3_2.19.4.bin",
-    "md5": "aaa3f51fb35d21f75e2870baa1cfc8c7",
-    "size": 1690400,
-    "notes": "Gateway 2.19.4: stabilan spisak uredjaja, preuzimanje H2 firmvera preko HTTPS-a, nema skracenih poruka o novoj verziji"
+    "version": "2.19.5",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway_gen3/smarty_gateway_gen3_2.19.5.bin",
+    "md5": "4f3dde0a34a1555bed667cdb040bfa45",
+    "size": 1691904,
+    "notes": "Gateway 2.19.5 (Zigbee): dnevnik dogadjaja dostupnosti i upozorenje kad uredjaj ne odgovara"
   },
   "node_s": {
     "version": "2.2.0",
