@@ -33,5 +33,12 @@
     "md5": "8cf27033a25a85329505774809208131",
     "size": 1989824,
     "notes": "Node S 2.2.0: OTA sa proverom md5 i velicine, povratak na stari firmver ako novi ne proradi"
+  },
+  "gateway_zb_mini": {
+    "version": "2.19.6",
+    "url": "https://raw.githubusercontent.com/smarty-srb/smarty-releases/main/firmware/gateway_zb_mini/smarty_gateway_zb_mini_2.19.6.bin",
+    "md5": "d6e8375cae35ccb68bcb0bd1db71fc81",
+    "size": 1679360,
+    "notes": "Gateway 2.19.6 (ZB mini): samo Zigbee i Wi-Fi, bez Ethernet-a i RS485 (ESP32-C6-Zero + ESP32-H2-Zero)"
   }
 }
